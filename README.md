@@ -1,3 +1,5 @@
+
+## Привет! Я Web-разработчик :technologist:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150"/>
 </div>
@@ -13,10 +15,7 @@
 
 </div>
 
-
 ---
-## Привет! Я Web-разработчик :technologist:
-
 ### :man_student: В данный момент учусь в Яндекс Практикум
 
 ### Мой стек
