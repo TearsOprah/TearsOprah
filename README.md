@@ -58,17 +58,25 @@
 ---
 
 ### Мои проекты
-<a href="https://github.com/TearsOprah/mesto">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=mesto" />
-</a>
 
-<a href="https://github.com/TearsOprah/russian-travel">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=russian-travel" />
-</a>
+<div>
+    <a href="https://github.com/TearsOprah/mesto">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=mesto" />
+    </a>
+</div>
 
-<a href="https://github.com/TearsOprah/how-to-learn">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=how-to-learn" />
-</a>
+<div>
+    <a href="https://github.com/TearsOprah/russian-travel">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=russian-travel" />
+    </a>
+</div>
+
+<div>
+    <a href="https://github.com/TearsOprah/how-to-learn">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=how-to-learn" />
+    </a>
+</div>
+
 
 <!--
 **TearsOprah/TearsOprah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
