@@ -5,7 +5,7 @@
 </div>
 
 
-<div id="socials" align="center">
+<div id="socials">
 
 <a href="https://t.me/tearsoprah">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://www.youtube.com/@etmeshik">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
