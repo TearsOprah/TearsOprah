@@ -13,6 +13,7 @@
 
 </div>
 
+
 ---
 ## Привет! Я Web-разработчик :technologist:
 
@@ -54,7 +55,15 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TearsOprah&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
-
+<a href="https://github.com/TearsOprah/mesto">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=mesto" />
+</a>
+<a href="https://github.com/TearsOprah/russian-travel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=russian-travel" />
+</a>
+<a href="https://github.com/TearsOprah/how-to-learn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=how-to-learn" />
+</a>
 
 <!--
 **TearsOprah/TearsOprah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
