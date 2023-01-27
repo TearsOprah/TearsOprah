@@ -49,7 +49,7 @@
 ---
 
 ### Моя статистика
-<div align="center">
+<div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TearsOprah&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
