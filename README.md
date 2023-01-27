@@ -9,6 +9,8 @@
 <a href="https://www.youtube.com/@etmeshik">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://www.behance.net/qmeshokp21d7">![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)</a>
 
+<img src="https://komarev.com/ghpvc/?username=TearsOprah&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 ---
@@ -44,7 +46,14 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=TearsOprah&style=flat-square&color=blue" alt=""/>
+---
+
+Моя статистика
+<div align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TearsOprah&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+
 
 
 <!--
