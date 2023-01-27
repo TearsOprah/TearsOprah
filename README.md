@@ -49,20 +49,25 @@
 
 ---
 
-Моя статистика
+### Моя статистика
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TearsOprah&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
 
+---
+
+### Мои проекты
 <a href="https://github.com/TearsOprah/mesto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=mesto" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=mesto" />
 </a>
+
 <a href="https://github.com/TearsOprah/russian-travel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=russian-travel" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=russian-travel" />
 </a>
+
 <a href="https://github.com/TearsOprah/how-to-learn">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=how-to-learn" />
+  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=how-to-learn" />
 </a>
 
 <!--
