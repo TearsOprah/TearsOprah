@@ -45,6 +45,12 @@
 </div>
 
 <div>
+    <a href="https://github.com/TearsOprah/mesto-react">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=mesto-react" />
+    </a>
+</div>
+
+<div>
     <a href="https://github.com/TearsOprah/russian-travel">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=russian-travel" />
     </a>
