@@ -17,10 +17,10 @@
 
 ---
 
-## Портфолио: [на сайт](https://react-portfolio-klt5nhc95-tearsoprah.vercel.app/)
+## Портфолио: [на сайт](https://react-portfolio-smoky-three.vercel.app/)
 
 
-### :man_student: В данный момент учусь в Яндекс Практикум
+### :man_student: Выпускник Яндекс Практикум по направлению Веб-разработка
 
 ### Мой стек
 <div>
@@ -43,14 +43,14 @@
 ### Мои проекты
 
 <div>
-    <a href="https://github.com/TearsOprah/mesto">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=mesto" />
+    <a href="https://github.com/TearsOprah/movies-explorer-frontend">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=movies-explorer-frontend" />
     </a>
 </div>
 
 <div>
-    <a href="https://github.com/TearsOprah/mesto-react">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=mesto-react" />
+    <a href="https://github.com/TearsOprah/react-mesto-api-full-gha">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TearsOprah&repo=react-mesto-api-full-gha" />
     </a>
 </div>
 
